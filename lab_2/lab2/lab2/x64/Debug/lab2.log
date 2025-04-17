@@ -1,0 +1,5 @@
+﻿Task2.obj : error LNK2005: main уже определен в Task1.obj
+Task3.obj : error LNK2005: main уже определен в Task1.obj
+Task4.obj : error LNK2005: main уже определен в Task1.obj
+Task5.obj : error LNK2005: main уже определен в Task1.obj
+C:\Users\nikit\OneDrive\Рабочий стол\МП\lab2\x64\Debug\lab2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
